@@ -1,0 +1,8 @@
+# Case study data belongs to PolyFinances: never commit it
+data/
+*.csv
+
+# Python / Jupyter
+.venv/
+__pycache__/
+.ipynb_checkpoints/
